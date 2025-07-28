@@ -1,7 +1,7 @@
-<h1>Skillsphere - "A Smarter Way to Onboard, Learn, and Grow."</h1>
+<h1>SkillSphere - "A Smarter Way to Onboard, Learn, and Grow."</h1>
 
 ## Overview
-Skillsphere is an AI-driven training management platform that decomposes the onboarding workflow into specialized agents, ensuring efficient coordination, comprehensive tracking, and seamless reporting. The system caters to both trainees and administrators, providing a centralized control hub via a rich web-based user interface.
+SkillSphere is an AI-driven training management platform that decomposes the onboarding workflow into specialized agents, ensuring efficient coordination, comprehensive tracking, and seamless reporting. The system caters to both trainees and administrators, providing a centralized control hub via a rich web-based user interface.
 
 ---
 
@@ -77,8 +77,11 @@ This feature set ensures transparency, quick access to trainee data, and streaml
 
  ### Authors:
 Deekshika G P
+
 Dhanushiyaa P
+
 D Mohamed Vaheen
+
 Karthikeyan S M
 
 
