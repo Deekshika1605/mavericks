@@ -1,0 +1,28 @@
+/* App.css */
+
+/* Import Inter font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Apply Inter font family to the entire application */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Tailwind CSS is typically included via a CDN script in index.html or built into the project.
+   For this example, we assume Tailwind is available.
+   No custom CSS is strictly needed beyond the font import if using Tailwind extensively.
+   However, you might add some global styles here if necessary. */
+
+/* Ensure the root element takes full height */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Basic styling for the main container to center content */
+.min-h-screen {
+  min-height: 100vh;
+}
