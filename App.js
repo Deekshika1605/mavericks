@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-
 // Utility function for input fields with Tailwind styling
 const InputField = ({ label, type, placeholder, value, onChange, error, forgotLink, id }) => (
     <div className="mb-4">
