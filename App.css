@@ -8,12 +8,6 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
-/* Tailwind CSS is typically included via a CDN script in index.html or built into the project.
-   For this example, we assume Tailwind is available.
-   No custom CSS is strictly needed beyond the font import if using Tailwind extensively.
-   However, you might add some global styles here if necessary. */
-
-/* Ensure the root element takes full height */
 html,
 body,
 #root {
